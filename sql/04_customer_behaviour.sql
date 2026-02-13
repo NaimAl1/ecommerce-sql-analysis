@@ -1,4 +1,4 @@
-# 1.) How do new vs returning customers contribute to total revenue? (Orders and Custsomer Table) 
+# 1.) How do new vs returning customers contribute to total revenue? 
 
 -- CTE to aggregate order counts per unique customer identity
 WITH CustomerStats AS (
