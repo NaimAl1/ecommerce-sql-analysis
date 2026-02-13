@@ -1,4 +1,4 @@
-# 1.) Which products and categories generate the highest revenue? (Order Items & Product Table)
+# 1.) Which products and categories generate the highest revenue? 
 SELECT 
 	p.product_id, 
     -- Use English translation for readability in reports
